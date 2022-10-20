@@ -8,3 +8,10 @@ make sure its inside a div
 give the div a style of grid
 add 2 actives in css for each player
 on active it changes the background image to the active player
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+after choosing color should change
+create an array for red and blue
+start with index 0
+after click go to index 1
+after another click go back to index 0
