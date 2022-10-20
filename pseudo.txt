@@ -1,0 +1,10 @@
+TIC TAC TOE
+
+~~~~~~~~~~~~~~~~~~~~~BOARD~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~html~~~
+create a 3/3 board using buttons
+make sure its inside a div
+~~style~~
+give the div a style of grid
+add 2 actives in css for each player
+on active it changes the background image to the active player

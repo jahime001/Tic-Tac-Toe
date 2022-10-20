@@ -1,0 +1,30 @@
+.board {
+   display: flex;
+   justify-content: center;
+    
+}
+.board-buttons{
+    display: grid;
+    grid-template-rows: 200px 200px 200px; 
+    grid-template-columns: 200px 200px 200px;
+   
+}
+
+
+
+
+.sqr {
+   /* display: flex;
+   align-items: center;
+   background-color: rgb(247, 236, 237); */
+    
+}
+
+.player1-active{
+    background-color: red;
+}
+
+
+.player2-active{
+    background-color: blue;
+}
